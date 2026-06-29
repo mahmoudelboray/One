@@ -15,7 +15,7 @@ st.subheader("🎛️ Adjust Property & Financial Criteria")
 
 
 purchase_price = st.slider(
-    "💰 Purchase Price (EGP / USD)", 
+    "💰 Purchase Price (USD)", 
     min_value=500000, 
     max_value=3000000, 
     value=1000000, 
