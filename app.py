@@ -80,5 +80,5 @@ st.markdown(
         </ul>
         <small style="color: #666666; font-style: italic;">{description}</small>
     </div>
-    """),
-    unsafe_allow_html=True
+    """,
+    unsafe_allow_html=True)
